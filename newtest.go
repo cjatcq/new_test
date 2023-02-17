@@ -1,6 +1,8 @@
 package new_test
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func Test() {
 	fmt.Println("hello, world")
